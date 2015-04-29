@@ -61,6 +61,8 @@
 52.[drag-sort-listview](https://github.com/bauerca/drag-sort-listview) listview 拖动排序<br>
 53.[android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh) 下拉刷新<br>
 54.[cardsui-for-android](https://github.com/nadavfima/cardsui-for-android) 卡片View<br>
+55.[loadtoast](https://github.com/code-mc/loadtoast) toast控件<br>
+56.[WechatLikeBottomTabUI](https://github.com/wuyexiong/WechatLikeBottomTabUI) 微信底部菜单按钮渐变
 
 
 
@@ -75,6 +77,7 @@
 4.[AndEngine](https://github.com/nicolasgramlich/AndEngine) 2D游戏引擎<br>
 5.[QuickNews](https://github.com/tigerguixh/QuickNews) 新闻客户端<br>
 6.[WifiChat](https://github.com/hillfly/WifiChat)<br>
+7.[Material-Movies](https://github.com/saulmm/Material-Movies) mvp架构的电影APP<br>
 <hr>
 ###lib库
 1.[fresco](https://github.com/facebook/fresco) 图片加载<br>
@@ -101,6 +104,7 @@
 22.[cube-sdk](https://github.com/etao-open-source/cube-sdk) 图片加载<br>
 23.[android-crop](https://github.com/jdamcd/android-crop) 图片裁剪<br>
 24.[androidMoveApp](https://github.com/AmongOthers/androidMoveApp) 应用搬家<br>
+25.[squidb](https://github.com/yahoo/squidb) 雅虎sqlite orm开源库
 <hr>
 ###编码技巧
 1.[base-adapter-helper](https://github.com/JoanZapata/base-adapter-helper)
@@ -113,7 +117,8 @@
   1.[Vaadin-MVP-Lite](https://github.com/sockeqwe/Vaadin-MVP-Lite) MVP模式<br>
   2.[dagger](https://github.com/square/dagger) 替代fragment的框架<br>
   3.[dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) APK动态加载框架<br>
-  4.[EventBus](https://github.com/greenrobot/EventBus)
+  4.[EventBus](https://github.com/greenrobot/EventBus)<br>
+  5.[otto](https://github.com/square/otto)
 
   <hr>
 ###安全
