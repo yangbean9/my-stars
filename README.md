@@ -104,7 +104,8 @@
 22.[cube-sdk](https://github.com/etao-open-source/cube-sdk) 图片加载<br>
 23.[android-crop](https://github.com/jdamcd/android-crop) 图片裁剪<br>
 24.[androidMoveApp](https://github.com/AmongOthers/androidMoveApp) 应用搬家<br>
-25.[squidb](https://github.com/yahoo/squidb) 雅虎sqlite orm开源库
+25.[squidb](https://github.com/yahoo/squidb) 雅虎sqlite orm开源库<br>
+26.[glide](https://github.com/bumptech/glide) 处理bitmap库
 <hr>
 ###编码技巧
 1.[base-adapter-helper](https://github.com/JoanZapata/base-adapter-helper)
