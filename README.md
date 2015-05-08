@@ -78,6 +78,8 @@
 5.[QuickNews](https://github.com/tigerguixh/QuickNews) 新闻客户端<br>
 6.[WifiChat](https://github.com/hillfly/WifiChat)<br>
 7.[Material-Movies](https://github.com/saulmm/Material-Movies) mvp架构的电影APP<br>
+8.[ijkplayer](https://github.com/Bilibili/ijkplayer) B站开源的视频播放器<br>
+9.[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)B站的弹幕引擎<br>
 <hr>
 ###lib库
 1.[fresco](https://github.com/facebook/fresco) 图片加载<br>
