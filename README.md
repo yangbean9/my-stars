@@ -135,6 +135,7 @@
 ###工具
 1.[stetho](https://github.com/facebook/stetho) 在chorme浏览器中调试android<br>
 2.[androidtool-mac](https://github.com/mortenjust/androidtool-mac) mac下连接Android手机截屏录屏工具<br>
+3.[leakcanary](https://github.com/square/leakcanary) 内存泄露检查工具<br>
 <hr>
 ###其他
 1.[算法学习](https://github.com/julycoding/The-Art-Of-Programming-By-July)<br>
