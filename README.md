@@ -62,7 +62,11 @@
 53.[android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh) 下拉刷新<br>
 54.[cardsui-for-android](https://github.com/nadavfima/cardsui-for-android) 卡片View<br>
 55.[loadtoast](https://github.com/code-mc/loadtoast) toast控件<br>
-56.[WechatLikeBottomTabUI](https://github.com/wuyexiong/WechatLikeBottomTabUI) 微信底部菜单按钮渐变
+56.[WechatLikeBottomTabUI](https://github.com/wuyexiong/WechatLikeBottomTabUI) 微信底部菜单按钮渐变<br>
+57.[Bookends](https://github.com/tumblr/Bookends) 给 RecyclerView 添加 headers 和 footers 的库<br>
+58.[ElasticDownload](https://github.com/Tibolte/ElasticDownload) 酷炫的下载进度条<br>
+59.[ExRecyclerView](https://github.com/tianzhijiexian/ExRecyclerView) 扩展的RecyclerView <br>
+
 
 
 
@@ -107,7 +111,8 @@
 23.[android-crop](https://github.com/jdamcd/android-crop) 图片裁剪<br>
 24.[androidMoveApp](https://github.com/AmongOthers/androidMoveApp) 应用搬家<br>
 25.[squidb](https://github.com/yahoo/squidb) 雅虎sqlite orm开源库<br>
-26.[glide](https://github.com/bumptech/glide) 处理bitmap库
+26.[glide](https://github.com/bumptech/glide) 处理bitmap库<br>
+27.[Trigger](https://github.com/airk000/Trigger) 事件触发器，类JobScheduler<br>
 <hr>
 ###编码技巧
 1.[base-adapter-helper](https://github.com/JoanZapata/base-adapter-helper)
@@ -136,6 +141,8 @@
 1.[stetho](https://github.com/facebook/stetho) 在chorme浏览器中调试android<br>
 2.[androidtool-mac](https://github.com/mortenjust/androidtool-mac) mac下连接Android手机截屏录屏工具<br>
 3.[leakcanary](https://github.com/square/leakcanary) 内存泄露检查工具<br>
+4.[jadx](https://github.com/skylot/jadx) java代码反编译神器<br>
+5.[android_gradle_script](https://github.com/lihei12345/android_gradle_script) android批量打包脚本<br>
 <hr>
 ###其他
 1.[算法学习](https://github.com/julycoding/The-Art-Of-Programming-By-July)<br>
